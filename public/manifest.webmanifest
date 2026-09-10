@@ -1,0 +1,16 @@
+{
+  "name": "Gjelbër Travel — Discover Albania Differently",
+  "short_name": "Gjelbër",
+  "description": "Handpicked tours, day trips and adventures across Albania.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#276a87",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

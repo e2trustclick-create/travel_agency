@@ -73,11 +73,11 @@ export function Navbar() {
           </span>
           <span
             className={cn(
-              "font-display text-lg font-medium tracking-tight transition-colors",
+              "font-display text-base font-medium tracking-tight transition-colors sm:text-lg",
               solid ? "text-charcoal-900" : "text-white"
             )}
           >
-            Gjelbër
+            Shala River Trip
           </span>
         </Link>
 

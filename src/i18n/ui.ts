@@ -266,7 +266,7 @@ const en = {
     storyEyebrow: "Our story",
     storyTitle: "We started with one boat and a borrowed van.",
     storyP1:
-      "Gjelbër Travel began with a handful of local guides taking curious travelers to the places we grew up visiting — hidden waterfalls, family vineyards, mountain guesthouses run by people we've known for years. As word spread, we grew, but we never lost the rule we started with: every trip should feel like it was planned by a friend who actually lives here.",
+      "Shala River Trip began with a handful of local guides taking curious travelers to the places we grew up visiting — hidden waterfalls, family vineyards, mountain guesthouses run by people we've known for years. As word spread, we grew, but we never lost the rule we started with: every trip should feel like it was planned by a friend who actually lives here.",
     storyP2:
       "Today we run tours across the entire country, from the alpine north to the Riviera coast, still led by local guides and still kept deliberately small.",
     seeOurTours: "See our tours",
@@ -621,7 +621,7 @@ const sq: typeof en = {
     storyEyebrow: "Historia jonë",
     storyTitle: "Filluam me një varkë dhe një furgon të huazuar.",
     storyP1:
-      "Gjelbër Travel filloi me disa udhërrëfyes lokalë që çonin udhëtarë kurioz në vendet ku ne u rritëm — ujëvara të fshehura, vreshta familjare, bujtina malore që drejtohen nga njerëz që i njohim prej vitesh. Ndërsa fjala u përhap, ne u rritëm, por nuk humbëm kurrë rregullin me të cilin nisëm: çdo udhëtim duhet të ndihet sikur është planifikuar nga një mik që jeton vërtet këtu.",
+      "Shala River Trip filloi me disa udhërrëfyes lokalë që çonin udhëtarë kurioz në vendet ku ne u rritëm — ujëvara të fshehura, vreshta familjare, bujtina malore që drejtohen nga njerëz që i njohim prej vitesh. Ndërsa fjala u përhap, ne u rritëm, por nuk humbëm kurrë rregullin me të cilin nisëm: çdo udhëtim duhet të ndihet sikur është planifikuar nga një mik që jeton vërtet këtu.",
     storyP2:
       "Sot ne organizojmë turne në të gjithë vendin, nga veriu alpin deri te bregdeti i Rivierës, gjithmonë të udhëhequr nga guida lokale dhe të mbajtura qëllimisht të vogla.",
     seeOurTours: "Shiko turnet tona",

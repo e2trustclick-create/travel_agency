@@ -9,8 +9,8 @@ export function unsplash(id: string, w = 1600, h = 1200) {
 export const img = {
   heroTheth: unsplash("photo-1506905925346-21bda4d32df4", 2400, 1600),
   heroRiviera: unsplash("photo-1533105079780-92b9be482077", 2400, 1600),
-  heroValley: unsplash("photo-1490077476659-095159692ab5", 2400, 1600),
   heroCanyon: unsplash("photo-1528127269322-539801943592", 2400, 1600),
+  ctaRiver: unsplash("photo-1508739773434-c26b3d09e071", 2400, 1400),
 
   thethLake: unsplash("photo-1506905925346-21bda4d32df4"),
   thethPeaks: unsplash("photo-1519681393784-d120267933ba"),

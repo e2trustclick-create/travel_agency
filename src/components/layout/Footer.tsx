@@ -58,7 +58,7 @@ export function Footer() {
               <span className="flex h-9 w-9 items-center justify-center rounded-full bg-ocean-600 text-white">
                 <Compass size={18} strokeWidth={2.4} />
               </span>
-              <span className="font-display text-xl font-medium text-white">Gjelbër</span>
+              <span className="font-display text-xl font-medium text-white">Shala River Trip</span>
             </Link>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-charcoal-400">
               {t.footer.tagline}
@@ -120,7 +120,7 @@ export function Footer() {
 
         <div className="mt-14 flex flex-col gap-4 border-t border-charcoal-800 pt-8 text-xs text-charcoal-500 sm:flex-row sm:items-center sm:justify-between">
           <p>
-            &copy; {new Date().getFullYear()} Gjelbër Travel. {t.footer.rights}
+            &copy; {new Date().getFullYear()} Shala River Trip. {t.footer.rights}
           </p>
           <div className="flex gap-6">
             <Link href="/contact" className="hover:text-charcoal-300">

@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import { img } from "@/lib/images";
 import { ButtonLink } from "@/components/ui/Button";
 import { SearchWidget } from "@/components/home/SearchWidget";
 import { useT } from "@/i18n/useT";
@@ -12,8 +11,8 @@ export function Hero() {
   return (
     <section className="relative -mt-[104px] flex min-h-[92vh] w-full items-end overflow-hidden bg-charcoal-900 sm:min-h-[100vh]">
       <Image
-        src={img.heroTheth}
-        alt="Alpine lake in the Albanian Alps"
+        src="/shala-river.webp"
+        alt="Shala River, Albania"
         fill
         priority
         sizes="100vw"

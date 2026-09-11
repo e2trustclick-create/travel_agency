@@ -10,8 +10,8 @@ export function FinalCTA() {
   return (
     <section className="relative flex min-h-[70vh] items-center overflow-hidden bg-charcoal-950">
       <Image
-        src={img.heroValley}
-        alt="Sunrise over the Albanian mountains"
+        src={img.ctaRiver}
+        alt="River canyon in the Albanian Alps"
         fill
         sizes="100vw"
         className="object-cover"

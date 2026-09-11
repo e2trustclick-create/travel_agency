@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.gjelber.al"),
   manifest: "/manifest.webmanifest",
   title: {
-    default: "Gjelbër Travel — Discover Albania Differently",
-    template: "%s | Gjelbër Travel",
+    default: "Shala River Trip — Discover Albania Differently",
+    template: "%s | Shala River Trip",
   },
   description:
     "Handpicked tours, day trips and adventures across Albania. Local experts, small groups, easy online booking.",
@@ -36,11 +36,11 @@ export const metadata: Metadata = {
     "Albania adventure travel",
   ],
   openGraph: {
-    title: "Gjelbër Travel — Discover Albania Differently",
+    title: "Shala River Trip — Discover Albania Differently",
     description:
       "Handpicked tours, day trips and adventures across Albania. Local experts, small groups, easy online booking.",
     url: "https://www.gjelber.al",
-    siteName: "Gjelbër Travel",
+    siteName: "Shala River Trip",
     locale: "en_US",
     type: "website",
   },
